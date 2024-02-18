@@ -5,7 +5,9 @@
 
 <template>
   <Header />
-  <RouterView />
+  <div class="bg-gray-700">
+    <RouterView />
+  </div>
 </template>
 
 <style scoped></style>
