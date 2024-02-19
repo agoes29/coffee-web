@@ -1,15 +1,9 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="container absolute w-full h-full text-center top-1/3 left-0 mx-auto font-sans">
+    <h1 class="relative text-center font-sans">This About</h1>
+    <p class="text-xl">D'Ice Digital</p>
+    <!-- Everything below this is part of the menu-->
   </div>
 </template>
 
-<style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
-</style>
+<style></style>
