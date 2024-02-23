@@ -7,11 +7,7 @@ import Header from "../src/components/Header.vue"
   <div class="bg-gray-700">
     <RouterView />
   </div>
-  <Header />
+  <!-- <Header /> -->
 </template>
 
-<style scoped>
-body {
-  background: #242424;
-}
-</style>
+<style scoped></style>
