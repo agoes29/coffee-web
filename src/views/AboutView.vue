@@ -1,5 +1,5 @@
 <template>
-  <nav class="w-full min-w-[150px] h-[100px]  flex justify-between items-center fixed top-0 left-0 z-[2]">
+  <!-- <nav class="w-full min-w-[150px] h-[100px]  flex justify-between items-center fixed top-0 left-0 z-[2]">
     <div class="flex flex-nowrap items-center w-auto min-w-[200px] max-w-[470px] h-full justify-between">
       <img class="w-[95px] p-2 ml-[min(3rem, 12vw)] mr-2"
         src="https://assets.codepen.io/10936164/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1700504404&width=512"
@@ -34,7 +34,8 @@
     <section id="work"></section>
     <section id="about"></section>
     <section id="connect"></section>
-  </div>
+  </div> -->
+  <h1>new about</h1>
 </template>
 
 <!-- <style lang="scss">
