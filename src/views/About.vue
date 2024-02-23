@@ -1,5 +1,5 @@
 <template>
-  <!-- <nav class="w-full min-w-[150px] h-[100px]  flex justify-between items-center fixed top-0 left-0 z-[2]">
+  <nav class="w-full min-w-[150px] h-[100px]  flex justify-between items-center fixed top-0 left-0 z-[2]">
     <div class="flex flex-nowrap items-center w-auto min-w-[200px] max-w-[470px] h-full justify-between">
       <img class="w-[95px] p-2 ml-[min(3rem, 12vw)] mr-2"
         src="https://assets.codepen.io/10936164/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1700504404&width=512"
@@ -18,7 +18,9 @@
           class=" bg-[#1abc9c] border-none h-[5px] w-full absolute top-0 left-0 transition-all duration-[0.35s] ease-linear cursor-pointer [&:nth-of-type(3)]:top-[22px]"></span>
       </div>
       <button id="nav-check">
-        <h1>this button</h1>
+        <span class=" block w-[25px] h-[10px] border-[3px] border-solid border-white"></span>
+        <span class=" block w-[25px] h-[10px] border-[3px] border-solid border-white"></span>
+        <span class=" block w-[25px] h-[10px] border-[3px] border-solid border-white"></span>
       </button>
       <ul class="nav-links">
         <li><a id="nav-home" href="#home" class="nav_link">HOME</a></li>
@@ -34,8 +36,7 @@
     <section id="work"></section>
     <section id="about"></section>
     <section id="connect"></section>
-  </div> -->
-  <h1>new about</h1>
+  </div>
 </template>
 
 <!-- <style lang="scss">
